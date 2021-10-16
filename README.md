@@ -8,7 +8,7 @@ This Project contains Three main Files.
 
 # How to run the Script.( Need Python version 2.7)
  
- open the terminal and type the followin.
+ open the terminal and type the following.
  
  " python Database.py sample_data.txt -W Ignore " Note: _W is used for ignoring if any warnings.
  
