@@ -12,5 +12,11 @@ This Project contains Three main Files.
  
  " python Database.py sample_data.txt -W Ignore " Note: _W is used for ignoring if any warnings.
  
+ 
+ # Main File which integrates all the three modules.
+ 
+  Database.py is the main file, which reads input data from the text file, which is preprocessed as input for the 2nd module.
+  In the 2nd module which connects to database and creats a tables in the database called "Test_Db".
+  in the 3rd modue which creats a table based on the 2nd module outcome.
   
 
